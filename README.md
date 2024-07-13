@@ -3,6 +3,7 @@
 Este notebook é parte do curso de Python para Data Science da Alura. Ele cobre os seguintes tópicos:
 
 
+
 • Introdução ao Python
 
 • Estruturas de Dados
